@@ -21,7 +21,7 @@ cp config.js.example config.js
 
 ## Usage
 
-To start this demo applications run:
+To start this demo application run:
 
 ```sh
 npm start
