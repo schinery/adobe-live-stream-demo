@@ -26,5 +26,6 @@ To start this demo application run:
 ```sh
 npm start
 ```
-
 Note: This will run `npm install` before starting the application.
+
+If all is set up right you should see data being returned in the terminal window.
