@@ -1,0 +1,21 @@
+{
+  "name": "adobe-live-stream-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm install && node app.js"
+  },
+  "dependencies": {
+    "adobe-live-stream-connector": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleepingstu/adobe-live-stream-demo.git"
+  },
+  "author": "Stuart Chinery <stuart.chinery@headlondon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sleepingstu/adobe-live-stream-demo/issues"
+  },
+  "homepage": "https://github.com/sleepingstu/adobe-live-stream-demo#readme"
+}
